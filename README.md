@@ -686,7 +686,7 @@ document.addEventListener('DOMContentLoaded', () => {
         {id: 6, nombre: 'alineacion_capas', pregunta: '¿Alineación de capas en la estiba es correcta?', descripcion: 'Cajas alineadas verticalmente, sin desplazamientos laterales'},
         {id: 7, nombre: 'estabilidad_lateral', pregunta: '¿La estiba tiene estabilidad al empuje lateral?', descripcion: 'Resistencia a fuerzas laterales, mantiene verticalidad'},
         {id: 8, nombre: 'altura_uniforme', pregunta: '¿La altura de la estiba es uniforme?', descripcion: 'Variación máxima entre puntos ≤ 5 mm'},
-        {id: 9, nombre: 'film_condition', pregunta: '¿Film retráctil/flejado en buena condición?', descripcion: 'Tensión adecuada, sin roturas, cobertura completa'},
+        {id: 9, nombre: 'film_condition', pregunta: '¿Film retráctil/flejado en buena condición?', descripcion: 'Tensión adecuada, sin roturas,Verificar Efecto Bandera,  cobertura completa'},
         {id: 10, nombre: 'ubicacion_correcta', pregunta: '¿Ubicación correcta en almacén?', descripcion: 'Posición adecuada según procedimientos de almacenamiento'}
     ];
 

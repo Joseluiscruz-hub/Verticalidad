@@ -81,4 +81,3 @@ Este proyecto forma parte del esfuerzo por construir soluciones modulares, digna
 
 ---
 
-¿Quieres que preparemos también el manifest.json y el service-worker.js para que lo empaquetes como PWA? Puedo ayudarte a dejarlo listo para instalación en móviles. ¿Avanzamos con eso?

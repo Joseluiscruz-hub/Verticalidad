@@ -1,12 +1,6 @@
----
-
-`markdown
-
 📦 Checklist de Verticalidad y Estibado – Planta Cuautitlán
 
 Aplicación web modular desarrollada para Coca-Cola FEMSA Toluca Pilares, diseñada para verificar la correcta estiba y verticalidad de productos en planta. Optimiza procesos operativos, permite trazabilidad offline y está lista para ser empaquetada como PWA.
-
----
 
 🧠 Propósito institucional
 

@@ -1,5 +1,3 @@
-¡Perfecto, Jose! Aquí tienes el archivo README.md listo para subir al repositorio. Puedes copiarlo directamente en tu carpeta del proyecto y hacer commit cuando estés frente a tu PC:
-
 ---
 
 `markdown
